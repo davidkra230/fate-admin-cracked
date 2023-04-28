@@ -183,7 +183,7 @@ loadstring(game:HttpGet"https://raw.githubusercontent.com/davidkra230/fates-admi
     end
 
     local function GC()
-    loadstring(game:HttpGet"https://raw.githubusercontent.com/cool6901/fates-admin-cracked/master/Commands.lua")()
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/davidkra230/fates-admin-cracked/master/Commands.lua")()
     end
     
     local function NoclipCurrent()
